@@ -9,7 +9,7 @@ Apple Pie is a simple Ipad word-guessing game, inspired by the Apple Pie project
 * Update Game State
 * Create Revealed Word
 * Handle a Win or Loss
-* 
+  
 # Additional Features Coming Soon...
 
 * Learn about the map method, and use it in place of the loop that converts the array of characters to an array of strings in updateUI()
