@@ -2,6 +2,9 @@
 
 Apple Pie is a simple Ipad word-guessing game, inspired by the Apple Pie project from the "Develop in Swift Fundamental" book by Apple. The player has a limited number of turns to guess the letters in a word. Each incorrect guess results in an apple falling off the tree. The player wins by guessing the word correctly before all the apples are gone.
 
+# Preview
+![Demo](applepiedemo.gif)
+
 # Tasks
 
 * Build the Interface
